@@ -1,7 +1,7 @@
 _site/
 .jekyll-cache/
 .sass-cache/
-vendor/
+/vendor/
 push.sh
 .DS_Store
 .history
