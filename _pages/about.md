@@ -16,6 +16,7 @@ My research interests include multimodal learning, medical imaging, explainable 
 
 # 📰 News
 
+- **11/2026** — Released a [technical report](https://arxiv.org/abs/2611.17041) on **efficient multi-agent deep research** in collaboration with **Ant Group**.
 - **08/2026** — Three papers were accepted to the **EMNLP 2026 Main Conference** (CCF-B).
 - **2026** — One paper was accepted by **CVPR 2026** as a **Highlight** (CCF-A).
 - **2026** — One paper was accepted by **BMC Medicine** (JCR Q1).
