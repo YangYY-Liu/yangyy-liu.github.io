@@ -157,6 +157,25 @@ Yifan Wu<sup>*</sup>, **Yang Liu<sup>*</sup>**, Yue Yang, Michael S. Yao, Wenli 
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <img src="/figures/projects/lead-rl.png" alt="LEAD-RL framework overview">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+<span class="venue-badge">Technical Report</span>
+
+**From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research**
+
+Yuyang Wu<sup>*</sup>, **Yang Liu<sup>*</sup>**, Zequn Xie<sup>*</sup>, Junjie Wang, Dan Yang, Zhehao Tan, Ding-Chu Zhang, Junming Yang, Yue Shen, Jian Wang, Jinjie Gu
+
+*Technical Report, 2026*
+
+[[arXiv](https://arxiv.org/abs/2611.17041)]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <img src="/figures/projects/FunReason-MT.png" alt="FunReason-MT project preview">
     </div>
   </div>
