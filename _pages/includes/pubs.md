@@ -5,6 +5,25 @@
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <img src="/figures/projects/lead-rl.png" alt="LEAD-RL framework overview">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+<span class="venue-badge">Technical Report</span>
+
+**From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research**
+
+Yuyang Wu<sup>*</sup>, **Yang Liu<sup>*</sup>**, Zequn Xie<sup>*</sup>, Junjie Wang, Dan Yang, Zhehao Tan, Ding-Chu Zhang, Junming Yang, Yue Shen, Jian Wang, Jinjie Gu
+
+*Technical Report, 2026*
+
+[[arXiv](https://arxiv.org/abs/2611.17041)]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <img src="/figures/projects/breastgpt.png" alt="BreastGPT project preview">
     </div>
   </div>
@@ -100,6 +119,24 @@ Jiao Qu<sup>*</sup>, **Yang Liu<sup>*</sup>**, Mengmei Zhang, ..., Su Lui
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <img src="/figures/projects/FunReason-MT.png" alt="FunReason-MT project preview">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+<span class="venue-badge">Technical Report</span>
+
+**FunReason-MT Technical Report: Advanced Data Synthesis Solution for Real-world Multi-Turn Tool-use**
+
+Zengzhuang Xu<sup>*</sup>, Bingguang Hao<sup>*</sup>, Zechuan Wang<sup>*</sup>, Yuntao Wen<sup>*</sup>, Maolin Wang<sup>*</sup>, **Yang Liu<sup>*</sup>**, ..., Shi Gu
+
+*Ant Group Inclusion AI Technical Report (Core Contributor)*
+
+[[arXiv](https://arxiv.org/abs/2510.24645)]
+  </div>
+</div>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <img src="/figures/projects/cvpr2025.png" alt="Hybrid CBM project preview">
     </div>
   </div>
@@ -151,43 +188,5 @@ Yifan Wu<sup>*</sup>, **Yang Liu<sup>*</sup>**, Yue Yang, Michael S. Yao, Wenli 
 *International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI 2023**), CCF-B*
 
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_51)] [[arXiv](https://arxiv.org/abs/2310.11040)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <img src="/figures/projects/lead-rl.png" alt="LEAD-RL framework overview">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-<span class="venue-badge">Technical Report</span>
-
-**From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research**
-
-Yuyang Wu<sup>*</sup>, **Yang Liu<sup>*</sup>**, Zequn Xie<sup>*</sup>, Junjie Wang, Dan Yang, Zhehao Tan, Ding-Chu Zhang, Junming Yang, Yue Shen, Jian Wang, Jinjie Gu
-
-*Technical Report, 2026*
-
-[[arXiv](https://arxiv.org/abs/2611.17041)]
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <img src="/figures/projects/FunReason-MT.png" alt="FunReason-MT project preview">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-<span class="venue-badge">Technical Report</span>
-
-**FunReason-MT Technical Report: Advanced Data Synthesis Solution for Real-world Multi-Turn Tool-use**
-
-Zengzhuang Xu<sup>*</sup>, Bingguang Hao<sup>*</sup>, Zechuan Wang<sup>*</sup>, Yuntao Wen<sup>*</sup>, Maolin Wang<sup>*</sup>, **Yang Liu<sup>*</sup>**, ..., Shi Gu
-
-*Ant Group Inclusion AI Technical Report (Core Contributor)*
-
-[[arXiv](https://arxiv.org/abs/2510.24645)]
   </div>
 </div>
