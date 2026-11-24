@@ -15,7 +15,7 @@
 
 LingSante Team, Ant Group (Inclusion AI)
 
-*LingSante-3.1-flash: open-weight medical model (560B MoE, 25B activated per token, 1M context), released 11/2026 under MIT License (Core Contributor). Technical report not yet released.*
+*LingSante-3.1-flash: open-weight medical model (560B MoE, 25B activated per token, 1M context), released 11/2026 under MIT License.*
 
 [[Blog](https://developer.ant-ling.com/en/blogs/lingsante-3.1-flash)] [[Models](https://huggingface.co/inclusionAI/LingSante-3.1-flash)] [[ModelScope](https://www.modelscope.cn/models/inclusionAI/LingSante-3.1-flash)]
   </div>
