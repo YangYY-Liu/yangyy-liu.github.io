@@ -16,6 +16,7 @@ My research interests include multimodal learning, medical imaging, explainable 
 
 # 📰 News
 
+- **11/2026** — Released [**LingSante-3.1-flash**](https://developer.ant-ling.com/en/blogs/lingsante-3.1-flash), an open-weight 560B medical model for medical reasoning and long-horizon clinical workflows, with **Ant Group Inclusion AI**.
 - **11/2026** — Released a [technical report](https://arxiv.org/abs/2611.17041) on **efficient multi-agent deep research** in collaboration with **Ant Group**.
 - **08/2026** — Three papers were accepted to the **EMNLP 2026 Main Conference** (CCF-B).
 - **2026** — One paper was accepted by **CVPR 2026** as a **Highlight** (CCF-A).
