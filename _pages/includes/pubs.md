@@ -5,6 +5,25 @@
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <img src="/figures/projects/lingsante.png" alt="LingSante medical model family overview">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+<span class="venue-badge">Model Release</span>
+
+**LingSante: From Reasoning to Real-World Workflows, Pushing the Frontier of Open Medical Intelligence**
+
+LingSante Team, Ant Group (Inclusion AI)
+
+*Open-weight medical model family — LingSante-3.1-flash (560B MoE, 25B activated, 1M context) and LingSante-3.1-air-VL (native multimodal), released 11/2026 under MIT License (Core Contributor)*
+
+[[Blog](https://developer.ant-ling.com/en/blogs/lingsante-3.1-flash)] [[Models](https://huggingface.co/inclusionAI/LingSante-3.1-flash)] [[Air-VL](https://huggingface.co/inclusionAI/LingSante-3.1-air-VL)] [[MedGuard](https://arxiv.org/abs/2611.25509)] [[Pulse](https://arxiv.org/abs/2611.27206)]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <img src="/figures/projects/lead-rl.png" alt="LEAD-RL framework overview">
     </div>
   </div>
